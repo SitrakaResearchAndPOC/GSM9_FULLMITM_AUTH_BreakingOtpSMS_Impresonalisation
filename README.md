@@ -22,7 +22,10 @@
 
 
 ## Perspective
+* https://www.youtube.com/watch?v=nRdJ0vaQt0o&pp=ygUMa2FydHplbiBub2hs
 * Fututr work : hard C code with full mitm services (sms and call) like PROFESSIONNAL IMSI-Catcher
 <p align="center">
   <img src="https://github.com/SitrakaResearchAndPOC/GSM9_FULLMITM_AUTH_BreakingOtpSMS_Impresonalisation/blob/main/full_mitm.jpg">
 </p>
+
+
